@@ -32,6 +32,9 @@
 
 #### Data Cleaning
 + The datasets were cleaned to ensure that they were ready for analysis. The cleaning process involved checking for duplicates and missing values. Depending on the number of missing values, we either dropped the rows containing the missing values or grouped the entire column if the missing values were too many. We kept the first row and dropped the rest of the duplicates.
++ ![ALT Text](https://github.com/BahatiNdwiga/dsc-phase-1-project-v2-4/blob/master/10%20Top%20Studios%20by%20Domestic%20Gross.png)
++ ![ALT Text](https://github.com/BahatiNdwiga/dsc-phase-1-project-v2-4/blob/master/Genre%20analysis.png)
++ ![ALT Text](https://github.com/BahatiNdwiga/dsc-phase-1-project-v2-4/blob/master/Return%20on%20Investment%20vs%20Production%20Budget.png)
 
 #### Conclusion
 + This project aimed to help Microsoft create a successful movie studio by providing insights on the relationship between the production budget and gross revenue, ROI, and popular movie genres. The project used Bom Movie Gross Data and Movie Budgets Data to derive these insights. By identifying the right talent, creating a business plan, and establishing relationships with distributors and other stakeholders, Microsoft can produce and distribute high-quality, original movies that appeal to a wide audience, generating revenue for the company and contributing to its overall growth and success.
